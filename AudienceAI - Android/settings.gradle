@@ -1,0 +1,2 @@
+rootProject.name='AudienceAI'
+include ':app'
